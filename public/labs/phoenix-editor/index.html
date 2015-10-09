@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="editor">
+  <head>
+    <meta charset="utf-8">
+    <title>Editor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.1/bootstrap.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+    <style>
+      .pad-top {
+        padding-top: 20px; 
+      }
+      .gut-top {
+        margin-top: 20px; 
+      }
+      canvas {
+        border: 1px solid black;
+        width: 144px;
+        height: 152px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container gut-top" ng-controller="EditorCtrl">
+      <div class="row">
+        <div class="col-md-4">
+          <canvas width="144" height="152"></canvas><br>
+          <textarea ng-model="data"></textarea><br>
+          <p><button class="btn" ng-click="load()">Load</button></p>
+          <p><button class="btn" ng-click="export()">Export</button></p>
+          <p><button class="btn" ng-click="resetLevel()">Reset</button></p>
+          <p><button class="btn" ng-click="paused=!paused">Toggle Pause</button></p>
+        </div>
+        <div class="col-md-8">
+          <button class="btn gut-top" ng-click="addLevel()">Add Level</button>
+          <ul class="nav nav-tabs pad-top">
+            <li ng-repeat="level in levels" ng-class="{active: $index == 0}">
+              <a showtab="" href="#{{level.$$hashKey}}">Level {{$index + 1}}</a>
+            </li>
+          </ul>
+          <div class="tab-content">
+            <div id="{{level.$$hashKey}}" class="tab-pane level" ng-repeat="level in levels" ng-class="{active: $index == 0}">
+              <button type="button" class="close" ng-click="removeLevel($index)">&times;</button>
+              <button class="btn gut-top" ng-click="addCreep(level)">Add Creep</button>
+              <ul class="nav nav-tabs pad-top">
+                <li ng-repeat="creep in level.creeps" ng-class="{active: $index == 0}">
+                  <a showtab="" href="#{{creep.$$hashKey}}">Creep {{$index + 1}}</a>
+                </li>
+              </ul>
+              <div class="tab-content">
+                <div id="{{creep.$$hashKey}}" class="tab-pane" ng-repeat="creep in level.creeps" ng-class="{active: $index == 0}">
+                  <button type="button" class="close" ng-click="removeCreep(level, $index)">&times;</button>
+                  <div class="form-group">
+                    <label>x</label>
+                    <input type="number" class="form-control" ng-model="creep.x" ng-change="resetCreep(creep)">
+                  </div>
+                  <div class="form-group">
+                    <label>y</label>
+                    <input type="number" class="form-control" ng-model="creep.y" ng-change="resetCreep(creep)">
+                  </div>
+                  <button class="btn gut-top" ng-click="duplicate(level, creep)">Duplicate</button>
+                  <button class="btn gut-top" ng-click="addRule(creep)">Add Rule</button>
+                  <ul class="nav nav-tabs pad-top">
+                    <li ng-repeat="rule in creep.rules" ng-class="{active: $index == 0}">
+                      <a showtab="" href="#{{rule.$$hashKey}}">Rule {{$index + 1}}</a>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="{{rule.$$hashKey}}" class="tab-pane" ng-repeat="rule in creep.rules" ng-class="{active: $index == 0}">
+                      <button type="button" class="close" ng-click="removeRule(creep, $index)">&times;</button>
+                      <div class="form-group">
+                        <label>dx</label>
+                        <input type="number" class="form-control" ng-model="rule.dx" ng-change="resetCreep(creep)">
+                      </div>
+                      <div class="form-group">
+                        <label>dy</label>
+                        <input type="number" class="form-control" ng-model="rule.dy" ng-change="resetCreep(creep)">
+                      </div>
+                      <div class="form-group">
+                        <label>type</label>
+                        <select class="form-control" ng-model="rule.type" ng-change="resetCreep(creep)">
+                          <option value="WALL">wall</option>
+                          <option value="DISTANCE">distance</option>
+                        </select>
+                      </div>
+                      <div class="form-group">
+                        <label>distance</label>
+                        <input type="number" class="form-control" ng-model="rule.distance" ng-change="resetLevel(level)">
+                      </div>
+                    </div>
+                  </div><!-- rule tabs -->
+                </div>
+              </div><!-- creep tabs -->
+            </div>
+          </div><!-- level tabs -->
+        </div>
+      </div>
+    </div>
+    <script src="build/web.js"></script>  
+  </body>
+</html>

@@ -1,0 +1,6 @@
+graphics/
+node_modules/
+.DS_Store
+public_old/
+public_mk_2/
+.env

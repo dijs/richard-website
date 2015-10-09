@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>JSNES: A JavaScript NES emulator</title>
+</head>
+
+<body>
+    <h1>Stupid Mario</h1>
+    
+    <div id="emulator"></div>
+    
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.7.0/underscore-min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/brain/0.6.3/brain.min.js"></script>
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js"></script>
+    <script src="lib/dynamicaudio-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="build/jsnes.min.js" type="text/javascript" charset="utf-8"></script>
+    
+    <script type="text/javascript" charset="utf-8">
+        var nes;
+        $(function() {
+            nes = new JSNES({
+                preferredFrameRate: 240,
+                'ui': $('#emulator').JSNESUI({
+                    "Games": [
+                        ['Super Mario Bros.', 'local-roms/Super Mario Bros. (JU) (PRG0) [!].nes']
+                    ]
+                })
+            });
+        });
+    </script>
+    
+    <script src="perceptron.js" type="text/javascript" charset="utf-8"></script>
+    <script src="deep.js" type="text/javascript" charset="utf-8"></script>
+    
+    <div class="sparkline"></div>
+
+    <br>
+
+    <button onclick="go();">GO!</button>
+
+    <!--[if IE]>
+        <script type="text/vbscript" src="source/jsnes-ie-hacks.vbscript"></script>
+    <![endif]-->
+
+</body>
+</html>

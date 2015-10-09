@@ -1,0 +1,6030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Location History</name>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T20:11:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509856,33.0431047</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T20:05:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>86</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0223538,33.0420215</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T20:04:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>130</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0145585,33.0441541</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T20:03:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>168</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0113168,33.0465584</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T18:28:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0629055,33.0721662</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T18:23:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.060101,33.0434113</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T13:48:57Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133747,32.961133</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T13:41:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>184</value>
+        </Data>
+        <Data name="altitude">
+          <value>151</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0127029,32.9731004</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:53:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0134487,32.9602513</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:49:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>110</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0362869,32.9729915</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:48:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>169</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0383841,32.9828898</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:47:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>87</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0403231,32.984363</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:16:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0514604,33.0375987</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:15:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>159</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.062191,33.0335528</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:14:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0617916,33.0270397</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:09:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>184</value>
+        </Data>
+        <Data name="altitude">
+          <value>143</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0385394,32.9830007</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:08:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>112</value>
+        </Data>
+        <Data name="altitude">
+          <value>147</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0367642,32.976579</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T09:07:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>168</value>
+        </Data>
+        <Data name="altitude">
+          <value>161</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0362344,32.9700607</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T08:14:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>124</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0440927,32.8987207</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T08:03:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1102</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0433787,32.9190369</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T08:02:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0397971,32.9067899</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T08:01:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1265</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0289842,32.9307095</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T07:56:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1662</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0365483,32.8919219</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T07:55:41Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2197</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0286518,32.885334</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T07:54:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2180</value>
+        </Data>
+        <Data name="altitude">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0265455,32.9101095</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T04:56:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>10</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0175196,38.8629732</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-28T04:47:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>20</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0425936,38.8524475</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:43:07Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>82</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.058452,38.9300883</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:41:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>82</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0583772,38.9300284</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:41:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>83</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0583784,38.929964</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:41:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>610</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0572389,38.9292647</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:41:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>417</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0579516,38.9299271</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:22:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.058352,38.9302805</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:11:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>74</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0569146,38.9313471</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:07:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>49</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0538132,38.9128814</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:06:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>157</value>
+        </Data>
+        <Data name="altitude">
+          <value>45</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0548313,38.9072043</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T20:05:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>25</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0567706,38.9006293</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T15:17:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>34</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0436901,38.8534627</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T15:15:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2016</value>
+        </Data>
+        <Data name="altitude">
+          <value>50</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.048846,38.860151</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T15:13:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2016</value>
+        </Data>
+        <Data name="altitude">
+          <value>50</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0488378,38.8601706</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T12:02:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0583892,38.9302091</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T07:03:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0585536,38.9299102</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T04:53:48Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0584793,38.9300569</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T03:39:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0585427,38.9297967</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-27T02:06:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>80</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0585023,38.9298741</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T23:33:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0585124,38.929959</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T21:59:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0584963,38.9299851</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T15:46:18Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>8</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0315243,38.8922467</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T09:37:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.058268,38.9298762</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T08:08:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0584595,38.930057</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-26T03:09:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0583527,38.9301269</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-25T21:17:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>81</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0584385,38.9299804</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T18:43:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>83</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0583544,38.9299226</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T16:46:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>70</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0566232,38.9323188</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T16:37:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1740</value>
+        </Data>
+        <Data name="altitude">
+          <value>24</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0690621,38.945089</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T16:36:06Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1740</value>
+        </Data>
+        <Data name="altitude">
+          <value>24</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0690634,38.9450908</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T16:27:37Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>347</value>
+        </Data>
+        <Data name="altitude">
+          <value>24</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0286306,38.8978802</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-24T16:26:27Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>363</value>
+        </Data>
+        <Data name="altitude">
+          <value>26</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-77.0286336,38.8978743</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-23T09:25:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>105</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0359781,33.0358701</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-23T09:24:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>102</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0382665,33.0422945</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-23T09:23:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0459422,33.0414981</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-23T06:03:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0511154,33.0434341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-23T03:14:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509524,33.0433963</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:59:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>124</value>
+        </Data>
+        <Data name="altitude">
+          <value>191</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1027919,33.0431181</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:46:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>202</value>
+        </Data>
+        <Data name="altitude">
+          <value>194</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1030608,33.0434989</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:45:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>202</value>
+        </Data>
+        <Data name="altitude">
+          <value>194</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1030599,33.0434913</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:43:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>284</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1029436,33.0431657</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:28:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.102082,33.0433869</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:27:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1002952,33.0434411</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:26:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>355</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0794042,33.0388528</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T18:21:18Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>91</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0506398,33.0383127</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T07:56:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>198</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0707973,33.016644</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-22T07:55:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0708568,33.0243233</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-21T23:21:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508087,33.0435466</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-21T03:24:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509741,33.0434308</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-20T18:10:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0510773,33.0435494</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-19T22:48:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509408,33.0436218</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-19T16:59:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507645,33.0434192</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-19T08:30:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0397166,32.9839366</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-19T08:24:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2026</value>
+        </Data>
+        <Data name="altitude">
+          <value>190</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0347309,32.9789274</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-19T08:23:48Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2765</value>
+        </Data>
+        <Data name="altitude">
+          <value>190</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.021447,32.9826803</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T11:31:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0510178,33.043188</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T11:27:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>70</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0317389,33.0422371</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T11:26:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>89</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.024112,33.0421385</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T11:25:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>156</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0186063,33.0424353</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T09:01:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>125</value>
+        </Data>
+        <Data name="altitude">
+          <value>157</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9938253,33.0447985</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T09:00:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9941405,33.0433457</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T08:48:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>79</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0020032,33.0051432</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T08:47:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>73</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0122763,33.0051039</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T08:42:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>155</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0546399,33.0197591</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T08:41:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0596434,33.0256887</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-18T08:40:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>166</value>
+        </Data>
+        <Data name="altitude">
+          <value>175</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0622049,33.0338115</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T19:08:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0723115,33.03554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T19:07:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0735665,33.0365606</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T19:06:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.077445,33.037201</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T17:38:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.100951,33.0427896</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T15:56:40Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507735,33.043447</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T13:59:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.062025,33.0343624</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T13:58:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0556742,33.0351754</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-17T07:34:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.050931,33.0434101</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T21:41:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0511047,33.0431964</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T21:38:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507951,33.0386253</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T21:37:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0598348,33.0341535</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:11:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0134167,32.9608681</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:10:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>227</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0130738,32.9611453</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:08:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133749,32.9612859</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:05:55Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>323</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0322963,32.973068</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:04:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>146</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0352456,32.9726148</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:03:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0373958,32.9751137</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T08:00:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>124</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0613334,32.9932165</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T07:59:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0707422,33.0026632</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T07:58:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0709756,33.0103205</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T07:52:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0672308,33.0354223</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T07:51:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0542411,33.0357883</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-15T07:50:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0457323,33.0411743</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T21:34:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508451,33.0432604</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T21:28:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>110</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0626419,33.0342915</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T21:27:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>85</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0703749,33.0360966</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T21:26:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0707857,33.0302506</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T20:16:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0703186,33.0118889</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T08:05:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133878,32.9610835</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T07:51:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0613844,32.9920307</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-14T07:44:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0668931,33.0356208</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T21:52:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509592,33.0434262</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T20:50:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0505459,33.0425787</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T20:49:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>172</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0595528,33.043166</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T20:48:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>266</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0627947,33.0450218</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T18:43:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0615182,33.0659838</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-13T18:42:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0618809,33.0573592</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-12T17:11:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1871</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0579098,33.0304418</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-12T17:10:36Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2040</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0553996,33.0320703</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T22:21:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1603</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0540237,33.0360917</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T22:20:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1603</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0540239,33.0360726</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T22:19:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1603</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0540275,33.0357764</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T20:44:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1896</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0643123,32.9894151</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T20:43:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>119</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0753146,32.9571255</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-11T11:07:41Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>194</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1016874,33.0420456</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:40:17Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1280</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.05414,33.0360677</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:39:07Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1223</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0547835,33.0358099</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:16:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>3837</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0720952,33.026922</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:11:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1521</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0700303,33.0021368</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:10:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1483</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0326727,32.9795337</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:08:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2063</value>
+        </Data>
+        <Data name="altitude">
+          <value>164</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0103769,32.9796864</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:04:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0392229,32.9605416</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:03:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>168</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0398865,32.945499</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T15:02:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0429935,32.9323267</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:51:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0613551,32.9228843</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:48:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>169</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0968517,32.9034886</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:47:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>163</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0826617,32.8926399</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:46:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>163</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0735578,32.8779796</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:43:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>160</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0610851,32.833964</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:42:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>142</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0606774,32.8204815</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:41:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>137</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0539673,32.8081045</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:36:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0629422,32.7575298</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:33:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0617894,32.7445834</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:32:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0605764,32.7424764</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:31:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0695586,32.7431052</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:28:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.096877,32.7390252</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:27:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0983544,32.7388161</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:26:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1052983,32.7389651</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-10T14:21:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1058029,32.7303184</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:53:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>198</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7056696,33.0403209</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:46:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>201</value>
+        </Data>
+        <Data name="altitude">
+          <value>196</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7069306,33.0321118</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:44:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>152</value>
+        </Data>
+        <Data name="altitude">
+          <value>192</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7090758,33.0286435</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:43:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>82</value>
+        </Data>
+        <Data name="altitude">
+          <value>189</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7097129,33.0220439</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:19:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>178</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.930119,32.9325325</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:17:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2487</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9280126,32.9104009</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:10:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9931379,32.8754227</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T18:09:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>3000</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9871727,32.8859187</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:57:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>161</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0147534,32.8549894</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:56:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>4926</value>
+        </Data>
+        <Data name="altitude">
+          <value>162</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0272966,32.836862</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:49:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>67</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0199807,32.741704</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:48:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0233947,32.7413038</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:40:37Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0976252,32.7390962</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:39:37Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1031075,32.738902</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T17:38:37Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1058202,32.7383925</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T13:04:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>190</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1086681,32.7298854</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:59:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>187</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1144,32.7254717</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:25:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>206</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.124295,32.6785389</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:24:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>201</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1208246,32.6801668</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:23:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>205</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1149289,32.6822621</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:20:17Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>198</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1115027,32.6787566</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:19:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0982761,32.6780413</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:18:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0855845,32.6778456</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:15:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>173</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0626129,32.6993748</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:14:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0629746,32.7096433</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:13:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.062424,32.7249099</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:09:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>143</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0605677,32.7816889</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:08:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>136</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0571543,32.792954</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:07:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>137</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0542925,32.8087003</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:04:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>118</value>
+        </Data>
+        <Data name="altitude">
+          <value>166</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0645472,32.855691</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:03:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>163</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0663169,32.8686131</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T12:02:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>3000</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0736998,32.8831216</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T11:55:40Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>570</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0331555,32.9706835</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T11:54:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>91</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0367205,32.9687691</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T11:12:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>174</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.059063,33.0342708</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-09T11:11:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0523398,33.0368604</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-08T16:06:50Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0146654,32.9707664</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T22:00:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.05076,33.0434022</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:56:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>89</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0617738,33.0343572</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:55:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>181</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0704405,33.0355454</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:54:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>158</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0706772,33.0298029</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:47:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>325</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0366522,32.9703442</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:46:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>96</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.04146,32.961344</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:45:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0429368,32.9595918</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:36:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>312</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0754004,32.9584471</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:35:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>188</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0752871,32.9566935</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:34:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.071796,32.956192</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T21:27:49Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0785474,32.9363618</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-07T07:10:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508294,33.0435722</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-06T18:07:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0863933,33.0742457</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-06T07:23:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>175</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508398,33.0434727</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-06T00:47:55Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507734,33.0434605</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T22:42:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0506919,33.043447</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T19:03:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1003064,33.0433893</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T18:57:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0624395,33.0342754</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T17:01:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508628,33.0433632</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:57:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0623621,33.0343941</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:56:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.062059,33.0269429</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:55:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0567061,33.024962</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:42:18Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0177522,33.0067431</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:41:18Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0128708,33.0050299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:36:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>152</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9930939,33.0100769</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:33:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>91</value>
+        </Data>
+        <Data name="altitude">
+          <value>152</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9944636,33.0047221</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:32:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1421</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0067009,32.9858328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T16:31:06Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>72</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0068216,32.9921774</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T08:11:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133816,32.961219</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T08:03:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1651</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.021134,32.9824162</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-05T04:34:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508979,33.0433469</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T12:31:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0506642,33.0423567</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T11:27:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>195</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1015297,33.0419322</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T09:02:57Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1016502,33.0418762</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T08:58:57Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0841989,33.0416626</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T08:57:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>187</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0729611,33.0365168</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-04T08:56:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.068515,33.035941</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T19:25:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509546,33.0427577</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T19:24:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0588097,33.042899</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T19:20:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>134</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0535569,33.0716085</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T19:19:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>70</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0513508,33.0715761</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T19:18:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0460356,33.0715409</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:48:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.040616,33.0714375</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:47:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0492452,33.0714937</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:46:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0514837,33.0690423</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:43:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0444881,33.0537396</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:42:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0445869,33.0461733</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-03T12:41:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0462239,33.0413408</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T22:35:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>158</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509602,33.0435312</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T21:15:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508169,33.0434251</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:51:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0484796,33.0430438</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:50:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>85</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0521853,33.036904</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:49:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0587857,33.0343431</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:45:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>167</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.070753,33.0286028</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:44:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>74</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0706773,33.02138</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:43:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>66</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0708886,33.0138554</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:39:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>87</value>
+        </Data>
+        <Data name="altitude">
+          <value>165</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0405254,32.9845826</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T19:38:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>175</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0382242,32.9824623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:54:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.087236,32.9274668</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:53:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0893321,32.923989</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:52:44Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0905049,32.9227799</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:49:25Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>281</value>
+        </Data>
+        <Data name="altitude">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0737689,32.8768602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:48:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>168</value>
+        </Data>
+        <Data name="altitude">
+          <value>160</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0644514,32.86</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:47:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>160</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0645561,32.8559921</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:44:34Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>688</value>
+        </Data>
+        <Data name="altitude">
+          <value>158</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0539661,32.8081705</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:43:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>155</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0556407,32.7979753</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:42:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0606315,32.7820571</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:38:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>158</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0687993,32.7599557</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T18:37:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>174</value>
+        </Data>
+        <Data name="altitude">
+          <value>163</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0757507,32.760155</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T16:09:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>74</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1112139,32.7357051</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T16:08:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1134503,32.7357195</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T16:07:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>101</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1144419,32.739268</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T16:02:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0974461,32.739178</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T15:48:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>161</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0583257,32.8178738</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T15:32:06Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>200</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0220229,32.9547576</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T15:30:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0105324,32.9546012</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-02T04:24:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508383,33.0433935</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-01T19:46:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509177,33.0433205</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-05-01T08:37:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133749,32.9612334</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-29T01:16:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0510159,33.0434102</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-28T21:26:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508611,33.0433513</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-28T16:35:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507353,33.0435017</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-28T09:36:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133745,32.9612278</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-27T14:37:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508307,33.0435457</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-27T12:09:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>195</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1017047,33.0414168</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-27T10:04:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1016197,33.0419151</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-26T22:56:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507704,33.0434353</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-26T02:13:40Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508365,33.0435052</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:42:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.3296263,32.7595328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:37:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>397</value>
+        </Data>
+        <Data name="altitude">
+          <value>162</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.2337893,32.7952584</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:35:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.2245202,32.7997443</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:34:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>4631</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.2095391,32.8032622</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:26:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1101932,32.8535807</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:25:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>257</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0998954,32.8752888</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:24:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1448</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0983203,32.8944015</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:10:47Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>161</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0402159,32.9622171</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T19:02:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0720011,33.0141915</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T18:56:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0611004,33.0342246</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T16:20:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0186553,32.9732179</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T16:19:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>98</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0148782,32.9660605</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T16:18:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0148571,32.9624535</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-25T11:44:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>155</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0881963,32.9259965</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-24T07:11:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509342,33.0434961</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-24T03:54:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>175</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508212,33.0433874</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T19:57:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508476,33.0435689</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:24:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>168</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0337484,33.0361223</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:21:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>168</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0360992,33.0319773</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:20:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0364628,33.0227257</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:19:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0366127,33.0152864</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:16:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0361432,32.9921205</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:15:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>147</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.026589,32.9847441</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:14:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0207317,32.9799374</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:11:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>157</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0231189,32.9732308</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:10:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>157</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0149627,32.9728223</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-23T16:09:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>156</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0149003,32.9663284</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-20T10:52:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>191</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1018658,33.0423154</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-20T10:35:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0457146,33.0410667</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-20T09:05:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508995,33.0437748</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-20T01:41:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508772,33.0435387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-20T00:36:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>172</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508468,33.043429</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T23:14:40Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508905,33.0434144</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:32:56Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>171</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508258,33.0435215</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:14:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>139</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9767129,33.0097048</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:13:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>138</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9609675,33.0000394</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:08:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>135</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9049412,32.9464995</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:07:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>141</value>
+        </Data>
+        <Data name="altitude">
+          <value>137</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9017174,32.931825</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:06:58Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>112</value>
+        </Data>
+        <Data name="altitude">
+          <value>139</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9007402,32.9233341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:02:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>132</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.889223,32.8596556</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T19:01:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>233</value>
+        </Data>
+        <Data name="altitude">
+          <value>136</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8769903,32.8484332</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:21:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>144</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7798776,32.7894004</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:18:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>146</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7836501,32.7957995</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:17:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>149</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7888362,32.8001529</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:16:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>150</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7942812,32.8038762</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:13:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>145</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8078644,32.8098986</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:12:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>139</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8128498,32.8053346</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:11:29Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>121</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8167281,32.8014633</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:08:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>124</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8316845,32.8021145</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:07:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>123</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8356074,32.8039216</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T18:01:19Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>133</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8626207,32.8119301</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:40:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>166</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8116421,32.746251</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:39:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>166</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8232327,32.7403744</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:38:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>166</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8259649,32.7260299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:35:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>369</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.823233,32.6849316</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:34:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>243</value>
+        </Data>
+        <Data name="altitude">
+          <value>170</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8230859,32.6622482</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:33:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.823203,32.6529429</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:21:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>193</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8368307,32.4730133</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:20:28Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8412113,32.465558</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T16:17:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>184</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8643473,32.4242826</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:57:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8663255,32.3799763</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:56:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8709769,32.3949288</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:55:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8728304,32.4087433</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:51:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8473663,32.4499839</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:50:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8418207,32.46488</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:49:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>189</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8338384,32.4786507</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:46:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8222402,32.5213054</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:45:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>199</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8222486,32.5362765</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:44:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>195</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8224575,32.5512326</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:41:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8225598,32.5960024</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:40:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.823118,32.6109259</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:39:59Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>201</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8232156,32.6268837</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:26:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8281599,32.7052114</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:23:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>151</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8248236,32.7324378</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:22:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>145</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8163697,32.7435407</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:21:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>134</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8096469,32.7554004</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:18:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>126</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8120595,32.7844143</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:17:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>122</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8174398,32.797642</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:16:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>122</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8333336,32.803082</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:13:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>126</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.87871,32.8226602</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:12:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>131</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8923704,32.8317635</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:11:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>126</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9064029,32.839936</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:08:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>134</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9446314,32.8692954</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:07:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>129</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9500453,32.8829201</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:06:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>137</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.9644314,32.891212</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:03:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0084417,32.9153055</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:02:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>168</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0241006,32.9231848</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T10:01:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>179</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0385027,32.9314413</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:58:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>165</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0370841,32.9710226</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:57:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>141</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0384737,32.9825479</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:56:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>160</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0529307,32.9865665</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:53:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>191</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0709171,33.012023</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:52:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0708036,33.0181785</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-19T09:51:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5</value>
+        </Data>
+        <Data name="altitude">
+          <value>187</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0708353,33.028661</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-18T23:24:11Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507356,33.0434045</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-18T17:12:27Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507355,33.0435018</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-17T16:38:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507162,33.0433396</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-16T06:00:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509555,33.04336</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-15T20:59:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0509551,33.0436002</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-15T15:48:50Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2228</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0173574,33.0098997</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-15T05:09:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508245,33.0433877</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-14T21:28:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.126304,33.079909</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-14T21:27:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>101</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1258275,33.0878849</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-14T21:26:42Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>188</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1233273,33.094375</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-14T04:07:20Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.05081,33.0434579</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-14T00:06:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507954,33.0434368</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-13T21:16:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507789,33.0434866</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-13T15:35:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>178</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507829,33.0434237</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-13T12:26:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507128,33.0434756</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-13T08:36:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508516,33.0435493</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T18:07:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508453,33.0434305</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T16:06:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>121</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8131002,32.7769537</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:30:25Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>149</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.790577,32.7811972</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:29:25Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>134</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7965665,32.7803894</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:26:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>117</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8123068,32.7787711</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:25:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>123</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8119067,32.783184</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:24:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>129</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8142306,32.7925532</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:21:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>122</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8553558,32.8116202</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:20:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>124</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8689649,32.8179709</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:19:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>125</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8744366,32.831672</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-12T11:16:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>127</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.897004,32.8674341</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-11T16:06:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>176</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507826,33.0432768</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-10T18:35:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508091,33.0433446</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-10T16:29:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>159</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507145,33.0434771</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-10T07:58:40Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>154</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0134099,32.9611776</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-09T08:10:19Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>180</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0455604,33.0085005</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-09T08:04:46Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>67</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0622282,33.0339367</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-09T04:53:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508547,33.0433479</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T19:48:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>177</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0510541,33.0434565</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T16:57:43Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.015046,32.9677145</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:57:55Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>145</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0132625,32.9615105</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:56:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0148588,32.9629043</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:54:01Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>364</value>
+        </Data>
+        <Data name="altitude">
+          <value>152</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0354822,32.9722071</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:52:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>76</value>
+        </Data>
+        <Data name="altitude">
+          <value>152</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0365341,32.9725399</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:51:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>77</value>
+        </Data>
+        <Data name="altitude">
+          <value>152</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.037305,32.9735848</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:46:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>96</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.040424,32.9845041</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:43:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>108</value>
+        </Data>
+        <Data name="altitude">
+          <value>160</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0460464,32.9966772</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:42:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>112</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0455333,33.0072496</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:41:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0449175,33.0128796</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:38:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0618924,33.0271929</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:37:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0624748,33.0329132</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-08T08:36:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>182</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0536124,33.0362208</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T21:41:50Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0511723,33.0434729</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T21:34:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>89</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0706821,33.0359107</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T21:33:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>107</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0776565,33.0377285</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T21:32:39Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0817688,33.0414123</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T21:24:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>186</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0942738,33.040828</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T19:58:41Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>183</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.1011827,33.0426509</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T18:24:51Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>174</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0507629,33.0433766</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:53:45Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0508812,33.0434138</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:49:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>114</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0628902,33.0287743</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:48:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>185</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0569223,33.0251131</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:47:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>181</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0534897,33.0178902</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:43:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0464435,32.995195</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:42:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>143</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0401805,32.9844105</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:41:15Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0385096,32.9827349</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:38:17Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0259862,32.9726371</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:37:17Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0180645,32.9730894</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T16:36:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0149723,32.9676285</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:32:41Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>153</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0133621,32.961094</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:25:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>93</value>
+        </Data>
+        <Data name="altitude">
+          <value>155</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0365127,32.9732292</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:24:09Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>163</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0372053,32.9755129</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:12:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>167</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0454758,33.0108608</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:11:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>173</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0490237,33.0163305</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-07T08:05:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>169</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-97.0459147,33.0414476</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:07:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>133</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.8092649,32.7832351</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:06:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>100</value>
+        </Data>
+        <Data name="altitude">
+          <value>137</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7988071,32.7912155</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:05:16Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>104</value>
+        </Data>
+        <Data name="altitude">
+          <value>148</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7920067,32.7904734</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:02:35Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>134</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7749415,32.763971</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:01:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>127</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7697556,32.7514792</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T21:00:24Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>1916</value>
+        </Data>
+        <Data name="altitude">
+          <value>127</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7664977,32.7227728</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:56:03Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2929</value>
+        </Data>
+        <Data name="altitude">
+          <value>139</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7316909,32.66759</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:54:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>139</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.7249786,32.6604172</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:36:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>6506</value>
+        </Data>
+        <Data name="altitude">
+          <value>135</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.6570572,32.4129736</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:28:20Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>463</value>
+        </Data>
+        <Data name="altitude">
+          <value>135</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.5390578,32.2840282</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:27:10Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>7000</value>
+        </Data>
+        <Data name="altitude">
+          <value>123</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.4909322,32.272307</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:07:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>84</value>
+        </Data>
+        <Data name="altitude">
+          <value>124</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.444369,32.0731234</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:06:14Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>202</value>
+        </Data>
+        <Data name="altitude">
+          <value>128</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.446949,32.0721526</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T20:05:04Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>129</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.449129,32.0683664</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:55:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>98</value>
+        </Data>
+        <Data name="altitude">
+          <value>131</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.4329454,32.0067052</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:54:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>113</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.4314716,32.0026026</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:50:17Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>21508</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.4110418,31.9459126</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:49:07Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>8003</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.3624724,31.9159682</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:47:57Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>8000</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.3261231,31.9396375</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:19:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>22661</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.0943016,31.4938042</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T19:18:20Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5000</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-96.0835868,31.4593138</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:56:00Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>6372</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.9455216,31.0661479</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:40:23Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5645</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.7418314,30.857932</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:39:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>5644</value>
+        </Data>
+        <Data name="altitude">
+          <value>111</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.7368586,30.8540385</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:31:48Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>470</value>
+        </Data>
+        <Data name="altitude">
+          <value>125</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5721575,30.7183387</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:30:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>84</value>
+        </Data>
+        <Data name="altitude">
+          <value>124</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5678826,30.7143529</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:29:38Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>96</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5583751,30.6991601</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:22:05Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2655</value>
+        </Data>
+        <Data name="altitude">
+          <value>65</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5030503,30.5862782</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:07:22Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>322</value>
+        </Data>
+        <Data name="altitude">
+          <value>65</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.476682,30.3302856</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:06:12Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>249</value>
+        </Data>
+        <Data name="altitude">
+          <value>55</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.469584,30.3097856</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:05:02Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>53</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4670682,30.3021101</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T18:00:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>107</value>
+        </Data>
+        <Data name="altitude">
+          <value>39</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4578171,30.2269816</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:59:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>38</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4572408,30.215933</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:55:31Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>151</value>
+        </Data>
+        <Data name="altitude">
+          <value>36</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4486553,30.1569452</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:54:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>66</value>
+        </Data>
+        <Data name="altitude">
+          <value>38</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4466734,30.157152</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:53:30Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>43</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.4552684,30.1565698</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:11:55Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>85</value>
+        </Data>
+        <Data name="altitude">
+          <value>42</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5368462,30.1799694</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T17:10:55Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>41</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5379424,30.1789292</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T16:52:21Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>41</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5554086,30.1526513</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T11:06:54Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>41</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5553894,30.1526299</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T11:06:53Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>41</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5553845,30.152637</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T11:06:52Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>2305</value>
+        </Data>
+        <Data name="altitude">
+          <value>42</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5407587,30.152486</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:16:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>42</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5553326,30.1527116</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:16:33Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>165</value>
+        </Data>
+        <Data name="altitude">
+          <value>41</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.555441,30.1526335</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:16:32Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>217</value>
+        </Data>
+        <Data name="altitude">
+          <value>45</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5554295,30.1528408</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:14:27Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>44</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5553318,30.1526662</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:14:13Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>44</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5548953,30.1530161</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:12:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>46</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5552108,30.1527712</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:10:26Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>10</value>
+        </Data>
+        <Data name="altitude">
+          <value>44</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5553993,30.1527594</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T09:10:06Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>50</value>
+        </Data>
+        <Data name="altitude">
+          <value>42</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5552903,30.152844</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <TimeStamp><when>2014-04-06T08:26:08Z</when></TimeStamp>
+      <ExtendedData>
+        <Data name="accuracy">
+          <value>65</value>
+        </Data>
+        <Data name="altitude">
+          <value>48</value>
+        </Data>
+      </ExtendedData>
+      <Point><coordinates>-95.5552908,30.1526558</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

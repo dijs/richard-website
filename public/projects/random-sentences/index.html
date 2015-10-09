@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Random Sentences</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="//favicon.ico" rel="icon" sizes="16x16" type="image/x-icon">
+    <!--[if lt IE 9]>            <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>        <![endif]-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.7.0/underscore-min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Random Sentences</h1>
+        <div class="row">
+        <div class="col-md-4">
+            <form class="form-horizontal" role="form">
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label">Length</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control length" id="inputEmail3" value="32">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">k</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control k" id="inputPassword3" value="0.05">
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-8">
+            <textarea class="form-control sentence" rows="3"></textarea>
+        </div>
+    </div>
+        <button class="btn btn-primary generate">Generate Sentence</button>
+    </div>
+
+</body>
+
+</html>
